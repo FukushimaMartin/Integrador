@@ -1,0 +1,73 @@
+Acta de la Mesa 4580
+
+Senadores
+Agrupacion Politica - Numero de Lista - Nombre del Candidato - Cantidad de Votos
+izquierda	1	RamalMarcelo	465
+izquierda	1	DelCorroPato	060
+izquierda	1	MarroneLaura	237
+cambiemos	2	CarrioElisa	521
+cambiemos	2	PolledoCarme	027
+cambiemos	2	IglesiasFern	414
+encuentro	3	ZamoraLuis	529
+encuentro	3	MartinezMart	069
+encuentro	3	SallustioSer	816
+socialismo	4	BodartAlejan	773
+socialismo	4	RoblesMarina	071
+socialismo	4	LatorreCesar	540
+ciudadana	5	LousteauMart	788
+ciudadana	5	CarrizoCarla	434
+ciudadana	5	LamadridAlva	018
+justicialista	6	MorenoGuille	019
+justicialista	6	ColomboMaria	673
+justicialista	6	AndrattaAdri	377
+grupodos	7	FukushimaFed	150
+grupodos	7	RollonRodrig	383
+grupodos	7	Traviesoalej	774
+frentefederal	8	FilmusDaniel	616
+frentefederal	8	CerrutiGabri	099
+frentefederal	8	CabandieJuan	942
+Soberanos	9	FranklinBenj	901
+Soberanos	9	JeffersonTho	681
+Soberanos	9	AdamsAbigail	079
+vamospais	10	MassaSergio	359
+vamospais	10	StolbizerMar	056
+vamospais	10	TomboliniMat	568
+
+Votos en Blanco 	Cantidad de Votos: 23
+Votos Impugnados 	Cantidad de Votos: 43
+-----------------------------------------------------------------------------
+Diputados
+Agrupacion Politica - Numero de Lista - Nombre del Candidato - Cantidad de Votos
+izquierda	1	BregmanMyrian	098
+izquierda	1	SolanoGabriel	435
+izquierda	1	NuniezNicolas	022
+cambiemos	2	FreyreAndres	105
+cambiemos	2	ForchieriAgus	734
+cambiemos	2	MendezVictori	191
+encuentro	3	LozanoClaudio	536
+encuentro	3	BarbagelataMa	292
+encuentro	3	PolinoHector	547
+socialismo	4	BayonMartin	101
+socialismo	4	GagliardiVane	100
+socialismo	4	RosaMariano	086
+ciudadana	5	VolpinDebora	352
+ciudadana	5	NosigliaJuan	282
+ciudadana	5	BonelliBarby	526
+justicialista	6	ZampiniRuben	005
+justicialista	6	VeraGustavo	840
+justicialista	6	AlvarezJose	150
+grupodos	7	OrellanaPabl	903
+grupodos	7	CastilloGiss	867
+grupodos	7	SaintusLouis	038
+frentefederal	8	RecaldeMaria	163
+frentefederal	8	MinionMariaR	508
+frentefederal	8	MontenegroVi	615
+Soberanos	9	LincolnAbram	827
+Soberanos	9	LeeHenryRich	878
+Soberanos	9	McKeanThomas	226
+vamospais	10	AriettoFlore	155
+vamospais	10	VivancoRaque	864
+vamospais	10	AbrevayaSerg	189
+
+Votos en Blanco 	Cantidad de Votos: 23
+Votos Impugnados 	Cantidad de Votos: 43
